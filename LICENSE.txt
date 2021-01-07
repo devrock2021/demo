@@ -9,3 +9,4 @@ Hello, Golang AWS lambda.
 >Very excited to join Rialtic
 
 
+New release 2.0
